@@ -12,7 +12,7 @@ I'm a passionate and multi-skilled **Full-Stack Developer**, **Penetration Teste
 ### 🌱 I’m currently learning
 - Advanced **DevSecOps practices** to bridge development and security.
 - **Blockchain fundamentals** and smart contract development with **Solidity**.
-- **AI integration** in full-stack apps using OpenAI and LangChain.
+- **AI integration** in full-stack apps using RESTful APIs, OpenAI and LangChain.
 
 ### 👯 I’m looking to collaborate on
 - **Open-source full-stack projects**, especially in education, fintech, or productivity.
